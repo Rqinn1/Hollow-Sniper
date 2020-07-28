@@ -1,0 +1,8 @@
+asyncio
+json
+traceback
+random
+discord
+requests
+colorama
+platform
